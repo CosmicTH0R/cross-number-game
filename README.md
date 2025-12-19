@@ -3,7 +3,7 @@
 A procedurally generated logic puzzle game built with **React**, designed to replicate the specific constraint-satisfaction mechanics observed in the MathAI reference activity.
 
 ## 🚀 Live Demo
-[Link to Live Game](https://your-project-url.vercel.app)
+[Link to Live Game](https://cross-number-game.vercel.app/)
 
 ## 🎯 Objective & Pivot
 The assignment text mentioned "Cross Number" (typically arithmetic equations). However, upon deeply analyzing the gameplay mechanics from the provided reference link, I identified that the core challenge was actually **Logic Constraints** (e.g., "Make the smallest 4-digit number", "Digits must not repeat") rather than simple calculation.
